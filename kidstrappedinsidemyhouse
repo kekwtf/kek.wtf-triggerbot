@@ -1,5 +1,3 @@
--- vapour is hot
--- feel free to change aim key, wallcheck, body part etc.
 local TeamCheck = true
 local WallCheck = true
 local Key = "G"
